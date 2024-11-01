@@ -1,0 +1,21 @@
+.social_feed_lite_container h3 { font-size: 22px; color: #2271b1; margin-bottom: 32px; }
+
+.social_feed_lite_container .connected { display: block; margin-bottom: 35px; font-size: 15px; font-weight: 600; color: green; }
+
+.social_feed_lite_container .disconnect-btn { background: #b90303; padding: 10px; border-radius: 5px; color: white; text-decoration: none; font-size: 14px; }
+
+.social_feed_lite_container .disconnect-btn:hover { background: #fb1919; }
+
+.social_feed_lite_container .connect-btn { background: green; padding: 10px; border-radius: 5px; color: white; text-decoration: none; font-size: 14px; }
+
+.social_feed_lite_container .connect-btn:hover { background: #039903; }
+
+.social_feed_lite_form .social_feed_lite_field-cont { display: inline-block; margin-right: 10px; }
+
+.social_feed_lite_form label { display: block; font-size: 14px; font-weight: 600; }
+
+.social_feed_lite_form .social_feed_lite_field { display: block; margin: 5px 0 10px 0; height: 40px; width: 100%; }
+
+.social_feed_lite_form .social_feed_lite_submit { background: #2271b1; border: none; padding: 10px 20px 10px 20px; font-size: 14px; font-weight: 600; color: white; border-radius: 4px; cursor: pointer; }
+
+.social_feed_lite_form .social_feed_lite_submit:hover { background: #2783cd; }
